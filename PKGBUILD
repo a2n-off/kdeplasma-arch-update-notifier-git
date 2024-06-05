@@ -1,14 +1,14 @@
 # Maintainer: Bouteiller a2n Alan <a2n.dev@pm.me>
 
 # git rev-parse tagName
-# 6.2.0
-_tag=3de749704d7b7a7a856e54069693f4855cc94d75
+# 6.3.1
+_tag=139245126c6cb0b9f83f02cb73f91884aab092d6
 _plasmoidName="a2n.archupdate.plasmoid"
 _souceName="archupdate"
 
 pkgname="kdeplasma-arch-update-notifier-git"
 # pkgver is updated automatically by the pkgver step
-pkgver=6.2.0
+pkgver=6.3.1
 pkgrel=3
 pkgdesc="KDE plasmoid that lets you know when arch updates are required. Takes all repo's into account (core, extra, aur, ...)."
 arch=("any")
