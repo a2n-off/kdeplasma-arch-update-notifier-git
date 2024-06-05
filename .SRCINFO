@@ -11,7 +11,7 @@ pkgbase = kdeplasma-arch-update-notifier-git
 	depends = kdialog
 	optdepends = paru: paru support
 	optdepends = yay: yay support - supported by default
-	source = git+https://github.com/bouteillerAlan/archupdate.git#tag=139245126c6cb0b9f83f02cb73f91884aab092d6?signed
+	source = git+https://github.com/bouteillerAlan/archupdate.git#tag=afd1fc5a8e79f80be23952194d8ffd3c33d62ebf?signed
 	validpgpkeys = 6A2ECC8A396F8A943A109A1E0F11C2A6BF79111E
 	sha256sums = SKIP
 
